@@ -20,7 +20,7 @@
         "isScrollToTopButton": false
       }
     },
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "file:///Users/Robert/Desktop/Chef's%20Interior",
     "versionFirst": "3.10",
     "uniqCompNum": 3,
@@ -150,8 +150,14 @@
             "showButtons": false
           },
           "title": "Chef's Interior",
-          "text": "Amazing reviews by Fabian Hilbert",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text": "<br>Amazing reviews by Fabian Hilbert",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
         }
       ]
     },
